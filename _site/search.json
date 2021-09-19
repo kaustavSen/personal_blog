@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this blog",
+      "description": "Hi there 👋",
+      "author": [],
+      "contents": "\nThanks for stopping by! My name is Kaustav Sen and I am an actuary by training. I am currently working with a consultancy firm based out of India.\nStatistics and mathematics has always fascinated me. Before starting work I studied for a Bachelor’s degree in statistics. This blog is my way of keeping in touch with the latest developments and also as an outlet for my learning experiences, which currently include R for visualization and analysis, D3.js and web development in general.\nYou can reach out to be via twitter or email.\n\n\n\n",
+      "last_modified": "2021-09-19T13:02:12+05:30"
+    },
+    {
+      "path": "index.html",
+      "title": "Posts",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-09-19T13:02:13+05:30"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}

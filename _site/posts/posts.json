@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to Kaustav's Blog",
+    "description": "Welcome to our new blog, Kaustav's Blog. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Kaustav Sen",
+        "url": "https://twitter.com/kustav_sen"
+      }
+    ],
+    "date": "2021-09-19",
+    "categories": [],
+    "contents": "\nThis is just a test post.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-09-19T12:18:00+05:30",
+    "input_file": {}
+  }
+]

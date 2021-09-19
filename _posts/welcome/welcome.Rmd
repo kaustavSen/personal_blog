@@ -1,0 +1,19 @@
+---
+title: "Welcome to Kaustav's Blog"
+description: |
+  Welcome to our new blog, Kaustav's Blog. We hope you enjoy 
+  reading what we have to say!
+author:
+  - name: Kaustav Sen 
+    url: https://twitter.com/kustav_sen
+date: 09-19-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+This is just a test post.

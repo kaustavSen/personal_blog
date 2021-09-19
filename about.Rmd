@@ -1,0 +1,15 @@
+---
+title: "About this blog"
+description: |
+  Hi there 👋
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Thanks for stopping by! My name is Kaustav Sen and I am an actuary by training. I am currently working with a consultancy firm based out of India.
+
+Statistics and mathematics has always fascinated me. Before starting work I studied for a Bachelor's degree in statistics. This blog is my way of keeping in touch with the latest developments and also as an outlet for my learning experiences, which currently include R for visualization and analysis, D3.js and web development in general.
+
+You can reach out to be via [twitter](https://twitter.com/kustav_sen) or [email](mailto:sen_kaustav@hotmail.com).
