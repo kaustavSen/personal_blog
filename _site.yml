@@ -2,7 +2,7 @@ name: "personal_blog"
 title: "Kaustav's Blog"
 description: |
   Kaustav's Blog
-output_dir: "_site"
+output_dir: "."
 navbar:
   right:
     - text: "Home"
